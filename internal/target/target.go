@@ -1,3 +1,6 @@
 package target
 
-type Target struct {}
+type Target struct {
+	Host string
+}
+
